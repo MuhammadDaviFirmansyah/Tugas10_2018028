@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Game Review Protype</string>
+    <string name="developer">Atlus</string>
+    <string name="game_desc">Persona 5 Royal adalah versi terbaru dari game Persona 5 yang berfokus kepada Phantom Thieves yang akan membebaskan dunia dari keburukan dan kegelapan dalam hati manusia. Temui Phantom Thieves dengan karakter baru yang muncul dalam P5R</string>
+    <string name="Review">Persona 5 Royal is a living master class in how to take an already amazing game and amp it up to the next level. It’s not just a standard “game of the year” edition with some extra content thrown in on the side. Just about everything in Atlus’ 2016 (2017 in the US) JRPG magnum opus has been honed, polished, and expanded in some meaningful and positive way. Across more than 130 hours of adventuring through urban Tokyo and the surreal realms of the human mind, the amount of love and attention to detail hiding around each old and new twist in the story left me in awe.                                     - IGN</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Placeholder for Home</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="game">
+        <item>Pokemon Legends of Arceus</item>
+        <item>Elden Ring</item>
+        <item>Honkai Impact 3rd</item>
+        <item>Project Diva Megamix</item>
+        <item>Overwatch 2</item>
+        <item>Monopoly HD</item>
+        <item>Super Smash Bros Ultimate</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 759.000</item>
+        <item>Rp. 660.000</item>
+        <item>Free to Play</item>
+        <item>Rp. 550.000</item>
+        <item>Free to Play</item>
+        <item>Rp. 69.000</item>
+        <item>Rp. 769.000</item>
+    </string-array>
+    <string name="swipe_left_for_register">Swipe Left for Register</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="tagLogin">Let\'s join us and \nLogin to Your Account</string>
+    <string name="tagRegister">Let\'s Register Your Account And \nGo Back To Login</string>
+    <string name="swipe_right_for_login">Swipe Right for Login</string>
+    <string name="register">Register</string>
+    <string name="your_name">Full Name</string>
+    <string name="username">Username</string>
+</resources>

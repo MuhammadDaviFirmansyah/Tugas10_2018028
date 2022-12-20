@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/ic_baseline_sports_esports_24"
+            android:title="Review Some Games" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_outlet_24"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_alarm"
+            android:icon="@drawable/ic_baseline_access_alarm_24"
+            android:title="Alarm" />
+        <item
+            android:id="@+id/nav_sql"
+            android:icon="@drawable/ic_baseline_dataset_24"
+            android:title="SQLite" />
+        <item
+            android:id="@+id/nav_api"
+            android:icon="@drawable/ic_baseline_data_usage_24"
+            android:title="RestAPI" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_data_usage_24"
+            android:title="Log Out" />
+    </group>
+</menu>
